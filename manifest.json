@@ -1,14 +1,14 @@
 {
     "format_version": 1,
     "header": {
-        "description": "SISTAR",
-        "name": "SISTAR",
+        "description": "Font-TH",
+        "name": "teddyz9",
         "uuid": "4ea5f1f2-0df9-4b59-bc82-512791e98c10",
         "version": [1, 0, 0]
     },
     "modules": [
         {
-            "description":  "SISTAR",
+            "description":  "Font-TH",
             "type": "resources",
             "uuid": "f84d5892-d8a0-42e9-bee5-344d4508fa0c",
             "version": [1, 0, 0]
